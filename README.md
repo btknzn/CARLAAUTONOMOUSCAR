@@ -1,3 +1,3 @@
-# CARLAAUTONOMOUSCAR#
+# CARLAAUTONOMOUSCAR
 
-This project is one autonomous driving, you can check  pdf for more details.
+This project is one autonomous driving project, for more information please read project report.
